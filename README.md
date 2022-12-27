@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Gogoo.
 
-email: 62916233@qq.com
+email: 328881598@qq.com
 
-wechat: 629162344
+wechat: Gogoo
 
 我是王禹，一个前端工程师
 
